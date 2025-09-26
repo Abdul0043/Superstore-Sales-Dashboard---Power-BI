@@ -10,12 +10,6 @@ Analyze profit margins and sales trends over time
 Compare customer segments and their contribution to revenue
 Monitor shipping modes and their efficiency
 
-📂 Files in this Repository
-Superstore_Sales_Dashboard.pbix → Power BI project file
-Data/Sample_Superstore.csv → Dataset used (if not too large, else provide source link)
-video/ → Folder containing dashboard preview images
-README.md → Documentation (this file)
-
 📊 Key Features & KPIs
 Total Sales, Profit, and Quantity
 Sales by Region, State, and City
